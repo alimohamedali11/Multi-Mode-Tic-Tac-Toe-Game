@@ -17,9 +17,13 @@ A cross-platform C++ console Tic-Tac-Toe with 2 modes, colorful board, score tra
 ---
 
 ## 🎥 Demo
-Here’s a short demo of the game in action:  
+Here’s a quick preview of the game in action:  
 
-[![Watch the Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=playstation)](https://github.com/user-attachments/assets/86fcdcab-a061-4081-965b-443fe25427db)
+![Game Demo Preview](https://github.com/user-attachments/assets/ab941c2e-13bb-4f34-9610-443e6a26b001)  
+
+👉 For the **full demo video**, click below:  
+
+[![Watch Full Demo](https://img.shields.io/badge/▶️%20Watch-Full%20Demo-blue?style=for-the-badge&logo=playstation)](https://github.com/user-attachments/assets/86fcdcab-a061-4081-965b-443fe25427db)
 
 ---
 
